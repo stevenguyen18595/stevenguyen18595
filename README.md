@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Steve Nguyen 
-- 👀 I’m interested in .Net and Angular 
-- 🌱 I’m currently learning software architectures
+- 👀 I’m interested in software architecture and cloud related  tech
+- 🌱 I’m currently learning node js
 - 📫 How to reach me: stevenguyen18595@gmail.com
 
 <!---
